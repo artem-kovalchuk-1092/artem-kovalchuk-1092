@@ -19,9 +19,9 @@ JavaScript | TypeScript | Node.js | React | Next.js
 🗣️ Languages
 
 English - pre intermediate
+
 Українська - рідна мова
 
-Контакти
 
 📫 How to reach me:  
 
